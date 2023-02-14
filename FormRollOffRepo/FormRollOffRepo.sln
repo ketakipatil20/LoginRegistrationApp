@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormRollOffRepo", "FormRollOffRepo\FormRollOffRepo.csproj", "{072EF5FF-5946-4DCB-9BF2-925F14A38737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072EF5FF-5946-4DCB-9BF2-925F14A38737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072EF5FF-5946-4DCB-9BF2-925F14A38737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072EF5FF-5946-4DCB-9BF2-925F14A38737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072EF5FF-5946-4DCB-9BF2-925F14A38737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610D49D7-0FDF-4D35-AE4D-74722E31C37D}
+	EndGlobalSection
+EndGlobal
